@@ -1,0 +1,26 @@
+The first "hackers" were students at the Massachusetts Institute of Technology (MIT) who belonged to the TMRC (Tech Model Railroad Club).
+Some of the members really built model trains.
+But many were more interested in the wires and circuits underneath the track platform.
+Spending hours at TMRC creating better circuitry was called a mere hack.
+Those members who were interested in creating innovative, stylistic, and technically clever circuits called themselves (with pride) hackers.
+During the spring of 1959, a new course was offered at MIT, a freshman programming class.
+Soon the hackers of the railroad club were spending days, hours, and nights hacking away at their computer, an IBM 704.
+Instead of creating a better circuit, their hack became creating faster, more efficient program - with the least number of lines of code.
+Eventually they formed a group and created the first set of hacker's rules, called the Hacker's Ethic.
+Steven Levy, in his book Hackers, presented the rules.
+Access to computers - and anything, which might teach you, something about the way the world works - should be unlimited and total.
+All information should be free.
+Mistrust authority - promote decentralization.
+Hackers should be judged by their hacking, not bogus criteria such as degrees, race, or position.
+You can create art and beauty on a computer.
+Computers can change your life for the better.
+These rules made programming at MIT's Artificial Intelligence Laboratory a challenging, all encompassing endeavor.
+Just for the exhilaration of programming, students in the Al Lab would write a new program to perform even the smallest tasks.
+The program would be made available to others who would try to perform the same task with fewer instructions.
+The act of making the computer work more elegantly was, to a bonafide hacker, awe-inspiring.
+Hackers were given free reign on the computer by two AI Lab professors, "Uncle" John McCarthy and Marvin Minsky, who realized that hacking created new insights.
+Over the years, the AI Lab created many innovations: LIFE, a game about survival;
+ LISP, a new kind of programming language;
+ the first computer chess game;
+ The CAVE, the first computer adventure;
+ and SPACEWAR, the first video game.
